@@ -1,0 +1,9 @@
+dependencies:
+  - name: d3
+    version: 3.5.17
+    src: htmlwidgets/lib/d3-3.5.17
+    script: d3.min.js
+  - name: circlepacking
+    version: 0.1
+    src: htmlwidgets/lib/circlepacking-0.1
+    stylesheet: style.css
